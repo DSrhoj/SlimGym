@@ -1,0 +1,24 @@
+Naucit osnove gita/githuba
+-- https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html
+-- 
+
+Instalirat git
+-- https://git-scm.com/downloads
+
+Napravit github acc
+-- https://github.com/
+
+Instalirat VS
+-- https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&rel=16
+-- instalirat Universal Windows Platform deevelopment i Mobile development with .NET
+
+Pogledat osnovne sintakse u c#
+-- https://www.youtube.com/watch?v=IFayQioG71A&ab_channel=CodeMonkey
+-- po mogucnosti jos par desetaka po zelji :)
+
+Instalirat discord (za komunicirat od doma)
+-- https://discord.com/api/download?platform=win
+
+Napravit discord acc
+-- znate valjda to i same :P
+
